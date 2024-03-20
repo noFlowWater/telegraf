@@ -1,0 +1,8 @@
+# .yaml 파일 모두 무시
+*.yaml
+
+# .conf 파일 모두 무시
+*.conf
+
+# example.conf는 추적
+!example.conf
