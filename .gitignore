@@ -1,6 +1,8 @@
 # .yaml 파일 모두 무시
 *.yaml
 
+!mqtt_influx_k8s.yaml
+
 # .conf 파일 모두 무시
 *.conf
 
